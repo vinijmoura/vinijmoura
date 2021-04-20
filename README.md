@@ -35,10 +35,6 @@
 	<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
 </a>
 
-<a href="https://www.youtube.com/channel/UC_QhmUDhKhUKKTC6aJr7n2g" target="_blank">
-	<img src="https://img.shields.io/badge/canalnet-red?&style=flat-square&logo=youtube&logoColor=white" alt="canaldotnet">
-</a>
-
 </div>
 <br/>
 
