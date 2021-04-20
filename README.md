@@ -1,6 +1,6 @@
 ### Muito prazer, eu sou o Vinicius Moura 👋
 
-* Sou consultor DevOps há 12 anos ajudando clientes em seus desafios.
+* Sou consultor DevOps há 12 anos, ajudando clientes em seus desafios e na melhoria contínua dos processo de DevOps.
 * Minha missão como [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5001515?fullName=Vinicius%20Jose%20Moura) é ajudar as pessoas, compartilhar conhecimento e trazer um pouco da minha experiência e vivência nos clientes. Exerço com paixão essa minha missão desde 2015.
 * Sou DevOps Cloud Technical Solution Architect na N3
 * Tenho o maior canal do mundo (em quantidade de videos) focado exclusivamente em Azure DevOps. Caso queira acessá-lo, procure por [Azure DevOps Sprints](http://bit.ly/azuredevopssprints) no Youtube.
