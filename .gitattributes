@@ -1,9 +1,0 @@
-# Example of a `.gitattributes` file which reclassifies the files as csharp
-*.cs linguist-language=csharp
-*.csproj linguist-language=csharp
-*.sln linguist-language=csharp
-
-# And ignore those repositories considering them as documentation
-src/*/wwwroot/* linguist-documentation
-wwwroot/** linguist-documentation
-*/bin/* linguist-documentation
